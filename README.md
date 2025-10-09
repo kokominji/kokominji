@@ -1,7 +1,6 @@
-<!-- 상단 웨이브 배너 -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:d5ccff,100:ffc2fb&height=200&section=header&text=Hi%20👋!%20My%20name%20is%20Minji&fontSize=45&fontColor=ffffff&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:d5ccff,100:ffc2fb&height=180&text=Hi%20👋!%20My%20name%20is%20Minji&fontSize=45&fontColor=ffffff&animation=fadeIn" 
     alt="header"
   />
 </p>
