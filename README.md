@@ -1,10 +1,10 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d5ccff,100:ffc2fb&height=180&text=hi,%20there!%20I'm%20Minji&animation=&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
+<!-- 상단 웨이브 배너 -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:d5ccff,100:ffc2fb&height=200&section=header&text=Hi%20👋!%20My%20name%20is%20Minji&fontSize=45&fontColor=ffffff&animation=fadeIn" 
+    alt="header"
+  />
+</p>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
