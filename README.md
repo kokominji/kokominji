@@ -1,41 +1,35 @@
-### 👋 Hi there! I'm [Your Name] 😊
+<h2 align="left">Hi 👋! My name is Minji</h2>
 
----
+###
 
-#### 🌱 About Me
-- 🎓 I'm currently learning **CS fundamentals, algorithms, and systems programming**  
-- 💻 Interested in **backend development**, **open-source**, and **computer architecture**  
-- 📚 Currently studying **CS:APP** and **Pintos OS**  
-- 🎯 Goal: Becoming a well-rounded backend engineer who understands systems deeply  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kokominji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=kokominji&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokominji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-#### 🛠 Tech Stack
-💡 Languages  
-`Python` `C` `C++` `JavaScript`
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+</div>
 
-🧩 Tools & Frameworks  
-`Flask` `MongoDB` `Linux` `Git` `VSCode`
+###
 
----
+<br clear="both">
 
-#### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kokominji&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokominji&layout=compact&theme=radical)
+<img src="https://raw.githubusercontent.com/kokominji/kokominji/output/snake.svg" alt="Snake animation" />
 
----
-
-#### 🏆 Baekjoon & Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kokominji)](https://solved.ac/YOUR_BAEKJOON_ID)
-[![Baekjoon](https://github-readme-boj.vercel.app/api?handle=kokominji)](https://solved.ac/YOUR_BAEKJOON_ID)
-
----
-
-#### ✨ Fun Fact
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> – Cory House  
-
----
-
-#### 📫 Contact Me
-📝 [velog]([https://yourblog.com](https://velog.io/@kmj6386/posts)) 
+###
