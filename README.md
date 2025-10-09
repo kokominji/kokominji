@@ -1,9 +1,4 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:d5ccff,100:ffc2fb&height=180&text=Hi%20👋!%20My%20name%20is%20Minji&fontSize=45&fontColor=ffffff&animation=fadeIn" 
-    alt="header"
-  />
-</p>
+<h2 align="left">Hi 👋! My name is Minji</h2>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
