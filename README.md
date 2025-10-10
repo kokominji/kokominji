@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Minji</h2>
+<h1 align="left">👋 Hi there, I'm Minji Ko!</h1>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
