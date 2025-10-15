@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://github.com/kokominji/pintos-kaist">
-    <img src="assets/Pintos.png" alt="Pintos" width="200"/>
+    <img src="assets/pintos.png" alt="Pintos" width="200"/>
   </a>
 
 </div>
