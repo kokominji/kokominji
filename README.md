@@ -3,6 +3,21 @@
 - 문제를 이해하며 구현하는 경험을 쌓고 있습니다.
 
 - 사용자 친화적인 UI/UX를 만드는 것에 관심이 많으며, 기술과 디자인을 연결하는 개발자로 성장하고 싶습니다.
+
+# 📂Project
+
+<div style="display: flex; gap: 20px;">
+
+  <a href="https://github.com/kokominji/Otto">
+    <img src="assets/Otto.png" alt="Otto" width="200"/>
+  </a>
+
+  <a href="https://github.com/kokominji/pintos-kaist">
+    <img src="assets/Pintos.png" alt="Pintos" width="200"/>
+  </a>
+
+</div>
+
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
   <br>
