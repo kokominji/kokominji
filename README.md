@@ -9,19 +9,19 @@
 <div style="display: flex; gap: 20px;">
 
   <a href="https://github.com/kokominji/Otto">
-    <img src="assets/Otto.png" alt="Otto" width="200"/>
+    <img src="assets/Otto.png" alt="Otto" style="width: 200px; height: auto;"/>
   </a>
 
   <a href="https://github.com/kokominji/pintos-kaist">
-    <img src="assets/pintos.png" alt="Pintos" width="200"/>
+    <img src="assets/pintos.png" alt="Pintos" style="width: 200px; height: auto;"/>
   </a>
 
   <a href="https://github.com/kokominji/Qrafton">
-    <img src="assets/Qrafton.png" alt="Qrafton" width="200"/>
+    <img src="assets/Qrafton.png" alt="Qrafton" style="width: 200px; height: auto;"/>
   </a>
 
   <a href="https://github.com/kokominji/Dinner">
-    <img src="assets/Dinner.png" alt="Dinner" width="200"/>
+    <img src="assets/Dinner.png" alt="Dinner" style="width: 200px; height: auto;"/>
   </a>
 
 </div>
