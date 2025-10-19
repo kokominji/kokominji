@@ -16,9 +16,9 @@
     <img src="assets/pintos.png" alt="Pintos" style="width: 200px; height: auto;"/>
   </a>
 
-  <a href="https://github.com/kokominji/Qrafton">
+  <!-- <a href="https://github.com/kokominji/Qrafton">
     <img src="assets/Qrafton.png.png" alt="Qrafton" style="width: 200px; height: auto;"/>
-  </a>
+  </a> -->
 
   <a href="https://github.com/kokominji/Dinner">
     <img src="assets/Dinner.png" alt="Dinner" style="width: 200px; height: auto;"/>
