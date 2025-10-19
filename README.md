@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://github.com/kokominji/Qrafton">
-    <img src="assets/Qrafton.png" alt="Qrafton" style="width: 200px; height: auto;"/>
+    <img src="assets/Qrafton.png.png" alt="Qrafton" style="width: 200px; height: auto;"/>
   </a>
 
   <a href="https://github.com/kokominji/Dinner">
